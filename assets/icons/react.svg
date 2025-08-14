@@ -1,0 +1,7 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- React Logo -->
+  <circle cx="32" cy="32" r="4" fill="#61DAFB"/>
+  <path d="M32 20C40 20 48 24 52 32C48 40 40 44 32 44C24 44 16 40 12 32C16 24 24 20 32 20Z" stroke="#61DAFB" stroke-width="2" fill="none"/>
+  <path d="M20 26C24 18 32 14 40 18C48 22 52 30 48 38C44 46 36 50 28 46C20 42 16 34 20 26Z" stroke="#61DAFB" stroke-width="2" fill="none"/>
+  <path d="M20 38C16 30 20 22 28 18C36 14 44 18 48 26C52 34 48 42 40 46C32 50 24 46 20 38Z" stroke="#61DAFB" stroke-width="2" fill="none"/>
+</svg>

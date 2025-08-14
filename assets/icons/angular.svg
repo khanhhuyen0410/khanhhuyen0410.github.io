@@ -1,0 +1,7 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Angular Logo -->
+  <path d="M32 2L6 12L10 48L32 62L54 48L58 12L32 2Z" fill="#DD0031"/>
+  <path d="M32 2V62L54 48L58 12L32 2Z" fill="#C3002F"/>
+  <path d="M32 8L48 44H40L36 36H28L24 44H16L32 8Z" fill="white"/>
+  <path d="M32 18L28 28H36L32 18Z" fill="#DD0031"/>
+</svg>

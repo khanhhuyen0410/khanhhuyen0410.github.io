@@ -1,0 +1,61 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Gradient -->
+  <rect width="1200" height="630" fill="url(#ogGradient)"/>
+  
+  <!-- Grid Pattern -->
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  
+  <!-- Main Content -->
+  <g transform="translate(100, 150)">
+    <!-- Avatar Circle -->
+    <circle cx="150" cy="150" r="80" fill="rgba(255,255,255,0.1)" stroke="rgba(255,255,255,0.3)" stroke-width="2"/>
+    <circle cx="150" cy="130" r="30" fill="rgba(255,255,255,0.8)"/>
+    <path d="M130 150C130 130 140 120 150 120C160 120 170 130 170 150" fill="rgba(255,255,255,0.8)"/>
+    
+    <!-- Text Content -->
+    <text x="280" y="100" font-family="Inter, sans-serif" font-size="48" font-weight="700" fill="white">
+      Portfolio Template
+    </text>
+    <text x="280" y="150" font-family="Inter, sans-serif" font-size="24" fill="rgba(255,255,255,0.9)">
+      Modern Angular Portfolio for Developers
+    </text>
+    <text x="280" y="190" font-family="Inter, sans-serif" font-size="18" fill="rgba(255,255,255,0.7)">
+      Built with Angular 20 + Tailwind CSS
+    </text>
+    
+    <!-- Features -->
+    <g transform="translate(280, 220)">
+      <text x="0" y="30" font-family="Inter, sans-serif" font-size="16" fill="rgba(255,255,255,0.8)">
+        ✨ Responsive Design
+      </text>
+      <text x="200" y="30" font-family="Inter, sans-serif" font-size="16" fill="rgba(255,255,255,0.8)">
+        🌙 Dark/Light Mode
+      </text>
+      <text x="0" y="60" font-family="Inter, sans-serif" font-size="16" fill="rgba(255,255,255,0.8)">
+        ⚡ Fast Performance
+      </text>
+      <text x="200" y="60" font-family="Inter, sans-serif" font-size="16" fill="rgba(255,255,255,0.8)">
+        🎨 Modern UI/UX
+      </text>
+    </g>
+  </g>
+  
+  <!-- Decorative Elements -->
+  <circle cx="1000" cy="100" r="60" fill="rgba(255,255,255,0.05)"/>
+  <circle cx="1100" cy="500" r="40" fill="rgba(255,255,255,0.05)"/>
+  <circle cx="50" cy="500" r="30" fill="rgba(255,255,255,0.05)"/>
+  
+  <!-- Gradient Definition -->
+  <defs>
+    <linearGradient id="ogGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1E40AF;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#3B82F6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8B5CF6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+</svg>

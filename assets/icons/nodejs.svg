@@ -1,0 +1,7 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Node.js Logo -->
+  <path d="M32 4L56 18V46L32 60L8 46V18L32 4Z" fill="#339933"/>
+  <path d="M32 4V60L56 46V18L32 4Z" fill="#2D7A2D"/>
+  <path d="M32 20L44 26V38L32 44L20 38V26L32 20Z" fill="#FFFFFF"/>
+  <circle cx="32" cy="32" r="6" fill="#339933"/>
+</svg>
