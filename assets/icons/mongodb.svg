@@ -1,0 +1,7 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- MongoDB Logo -->
+  <path d="M32 4C32 4 20 12 20 28C20 44 32 56 32 56C32 56 44 44 44 28C44 12 32 4 32 4Z" fill="#47A248"/>
+  <path d="M32 4C32 4 24 10 24 24C24 38 32 48 32 48C32 48 40 38 40 24C40 10 32 4 32 4Z" fill="#4FAA41"/>
+  <path d="M32 8C32 8 28 12 28 20C28 28 32 36 32 36C32 36 36 28 36 20C36 12 32 8 32 8Z" fill="#8CC84B"/>
+  <rect x="30" y="48" width="4" height="12" fill="#47A248"/>
+</svg>

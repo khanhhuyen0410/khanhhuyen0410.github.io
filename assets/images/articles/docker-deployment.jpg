@@ -1,0 +1,48 @@
+<svg width="400" height="240" viewBox="0 0 400 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="240" fill="url(#dockerGradient)"/>
+  
+  <!-- Docker Logo -->
+  <g transform="translate(160, 70)">
+    <!-- Docker Whale -->
+    <ellipse cx="40" cy="50" rx="35" ry="20" fill="#2496ED"/>
+    <rect x="20" y="35" width="8" height="8" fill="white" rx="1"/>
+    <rect x="30" y="35" width="8" height="8" fill="white" rx="1"/>
+    <rect x="40" y="35" width="8" height="8" fill="white" rx="1"/>
+    <rect x="50" y="35" width="8" height="8" fill="white" rx="1"/>
+    <rect x="60" y="35" width="8" height="8" fill="white" rx="1"/>
+    
+    <rect x="25" y="25" width="8" height="8" fill="white" rx="1"/>
+    <rect x="35" y="25" width="8" height="8" fill="white" rx="1"/>
+    <rect x="45" y="25" width="8" height="8" fill="white" rx="1"/>
+    <rect x="55" y="25" width="8" height="8" fill="white" rx="1"/>
+    
+    <rect x="30" y="15" width="8" height="8" fill="white" rx="1"/>
+    <rect x="40" y="15" width="8" height="8" fill="white" rx="1"/>
+    <rect x="50" y="15" width="8" height="8" fill="white" rx="1"/>
+  </g>
+  
+  <!-- Deployment Elements -->
+  <g opacity="0.7">
+    <!-- Containers -->
+    <rect x="60" y="50" width="25" height="15" fill="rgba(255,255,255,0.3)" rx="2"/>
+    <rect x="315" y="50" width="25" height="15" fill="rgba(255,255,255,0.3)" rx="2"/>
+    <rect x="60" y="175" width="25" height="15" fill="rgba(255,255,255,0.3)" rx="2"/>
+    <rect x="315" y="175" width="25" height="15" fill="rgba(255,255,255,0.3)" rx="2"/>
+    
+    <!-- Arrows -->
+    <path d="M90 57l20 0M105 52l5 5-5 5" stroke="rgba(255,255,255,0.6)" stroke-width="2" fill="none"/>
+    <path d="M290 57l-20 0M285 52l-5 5 5 5" stroke="rgba(255,255,255,0.6)" stroke-width="2" fill="none"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="200" y="210" text-anchor="middle" fill="rgba(255,255,255,0.9)" font-size="16" font-weight="bold" font-family="Arial">Docker Deployment</text>
+  
+  <!-- Gradient Definition -->
+  <defs>
+    <linearGradient id="dockerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2496ED;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1E7FCC;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+</svg>

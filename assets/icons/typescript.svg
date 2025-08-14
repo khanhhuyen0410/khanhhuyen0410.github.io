@@ -1,0 +1,6 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- TypeScript Logo -->
+  <rect width="64" height="64" rx="8" fill="#3178C6"/>
+  <path d="M18 20H46V24H34V52H30V24H18V20Z" fill="white"/>
+  <path d="M38 28H42V30H44C46.2 30 48 31.8 48 34V38C48 40.2 46.2 42 44 42H38V28ZM42 32V38H44V34H42V32Z" fill="white"/>
+</svg>

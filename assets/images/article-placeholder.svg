@@ -1,0 +1,55 @@
+<svg width="400" height="240" viewBox="0 0 400 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="240" fill="url(#articleGradient)"/>
+  
+  <!-- Article Icon -->
+  <g transform="translate(160, 60)">
+    <!-- Document -->
+    <rect x="0" y="0" width="80" height="100" fill="rgba(255,255,255,0.9)" rx="4"/>
+    
+    <!-- Document Header -->
+    <rect x="8" y="8" width="64" height="4" fill="rgba(59,130,246,0.6)" rx="2"/>
+    <rect x="8" y="16" width="48" height="3" fill="rgba(59,130,246,0.4)" rx="1.5"/>
+    
+    <!-- Document Lines -->
+    <rect x="8" y="28" width="64" height="2" fill="rgba(107,114,128,0.4)" rx="1"/>
+    <rect x="8" y="34" width="56" height="2" fill="rgba(107,114,128,0.4)" rx="1"/>
+    <rect x="8" y="40" width="60" height="2" fill="rgba(107,114,128,0.4)" rx="1"/>
+    <rect x="8" y="46" width="52" height="2" fill="rgba(107,114,128,0.4)" rx="1"/>
+    
+    <rect x="8" y="56" width="64" height="2" fill="rgba(107,114,128,0.4)" rx="1"/>
+    <rect x="8" y="62" width="48" height="2" fill="rgba(107,114,128,0.4)" rx="1"/>
+    <rect x="8" y="68" width="58" height="2" fill="rgba(107,114,128,0.4)" rx="1"/>
+    
+    <!-- Code Block -->
+    <rect x="8" y="78" width="64" height="14" fill="rgba(31,41,55,0.1)" rx="2"/>
+    <rect x="12" y="82" width="24" height="1.5" fill="rgba(16,185,129,0.6)" rx="0.75"/>
+    <rect x="12" y="86" width="32" height="1.5" fill="rgba(59,130,246,0.6)" rx="0.75"/>
+  </g>
+  
+  <!-- Floating Elements -->
+  <g opacity="0.6">
+    <!-- Tags -->
+    <rect x="50" y="50" width="32" height="16" fill="rgba(59,130,246,0.2)" rx="8"/>
+    <text x="66" y="61" text-anchor="middle" fill="rgba(59,130,246,0.8)" font-size="8" font-family="Arial">TAG</text>
+    
+    <rect x="320" y="180" width="36" height="16" fill="rgba(16,185,129,0.2)" rx="8"/>
+    <text x="338" y="191" text-anchor="middle" fill="rgba(16,185,129,0.8)" font-size="8" font-family="Arial">CODE</text>
+    
+    <!-- Icons -->
+    <circle cx="80" cy="180" r="12" fill="rgba(139,92,246,0.2)"/>
+    <path d="M74 180l4-4 4 4-4 4z" fill="rgba(139,92,246,0.6)"/>
+    
+    <circle cx="320" cy="60" r="12" fill="rgba(245,101,101,0.2)"/>
+    <rect x="316" y="56" width="8" height="8" fill="rgba(245,101,101,0.6)" rx="1"/>
+  </g>
+  
+  <!-- Gradient Definition -->
+  <defs>
+    <linearGradient id="articleGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F8FAFC;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#E2E8F0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#CBD5E1;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+</svg>

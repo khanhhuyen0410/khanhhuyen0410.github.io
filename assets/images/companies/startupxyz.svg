@@ -1,0 +1,27 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="30" cy="30" r="30" fill="url(#startupGradient)"/>
+  
+  <!-- Logo Elements -->
+  <g transform="translate(30, 30)">
+    <!-- X Shape -->
+    <path d="M-12 -12L12 12M12 -12L-12 12" stroke="white" stroke-width="3" stroke-linecap="round"/>
+    
+    <!-- Y Shape -->
+    <path d="M-8 -20L0 -8L8 -20M0 -8L0 4" stroke="rgba(255,255,255,0.8)" stroke-width="2" stroke-linecap="round"/>
+    
+    <!-- Z Shape -->
+    <path d="M-12 16L12 16M12 16L-12 24M-12 24L12 24" stroke="rgba(255,255,255,0.6)" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  
+  <!-- Company Name -->
+  <text x="30" y="50" text-anchor="middle" fill="white" font-size="8" font-weight="bold" font-family="Arial">XYZ</text>
+  
+  <!-- Gradient Definition -->
+  <defs>
+    <linearGradient id="startupGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#EC4899;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#BE185D;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+</svg>

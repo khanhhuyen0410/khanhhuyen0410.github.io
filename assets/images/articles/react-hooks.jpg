@@ -1,0 +1,46 @@
+<svg width="400" height="240" viewBox="0 0 400 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="240" fill="url(#reactGradient)"/>
+  
+  <!-- React Logo -->
+  <g transform="translate(200, 120)">
+    <!-- React Atom -->
+    <circle cx="0" cy="0" r="3" fill="#61DAFB"/>
+    
+    <!-- Electron Orbits -->
+    <ellipse cx="0" cy="0" rx="30" ry="10" stroke="#61DAFB" stroke-width="2" fill="none"/>
+    <ellipse cx="0" cy="0" rx="30" ry="10" stroke="#61DAFB" stroke-width="2" fill="none" transform="rotate(60)"/>
+    <ellipse cx="0" cy="0" rx="30" ry="10" stroke="#61DAFB" stroke-width="2" fill="none" transform="rotate(-60)"/>
+    
+    <!-- Electrons -->
+    <circle cx="25" cy="0" r="2" fill="#61DAFB"/>
+    <circle cx="-12.5" cy="21.7" r="2" fill="#61DAFB"/>
+    <circle cx="-12.5" cy="-21.7" r="2" fill="#61DAFB"/>
+  </g>
+  
+  <!-- Hook Elements -->
+  <g opacity="0.8">
+    <!-- Hook Icons -->
+    <text x="80" y="60" fill="rgba(255,255,255,0.7)" font-size="12" font-family="monospace">useState</text>
+    <text x="280" y="60" fill="rgba(255,255,255,0.7)" font-size="12" font-family="monospace">useEffect</text>
+    <text x="80" y="190" fill="rgba(255,255,255,0.7)" font-size="12" font-family="monospace">useContext</text>
+    <text x="270" y="190" fill="rgba(255,255,255,0.7)" font-size="12" font-family="monospace">useReducer</text>
+    
+    <!-- Hook Symbols -->
+    <path d="M70 50c0-5 5-5 5 0s-5 5-5 0" stroke="rgba(255,255,255,0.5)" stroke-width="2" fill="none"/>
+    <path d="M270 50c0-5 5-5 5 0s-5 5-5 0" stroke="rgba(255,255,255,0.5)" stroke-width="2" fill="none"/>
+    <path d="M70 180c0-5 5-5 5 0s-5 5-5 0" stroke="rgba(255,255,255,0.5)" stroke-width="2" fill="none"/>
+    <path d="M260 180c0-5 5-5 5 0s-5 5-5 0" stroke="rgba(255,255,255,0.5)" stroke-width="2" fill="none"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="200" y="210" text-anchor="middle" fill="rgba(255,255,255,0.9)" font-size="16" font-weight="bold" font-family="Arial">React Hooks Guide</text>
+  
+  <!-- Gradient Definition -->
+  <defs>
+    <linearGradient id="reactGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#282C34;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#20232A;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+</svg>

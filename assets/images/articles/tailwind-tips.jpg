@@ -1,0 +1,37 @@
+<svg width="400" height="240" viewBox="0 0 400 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="240" fill="url(#tailwindGradient)"/>
+  
+  <!-- Tailwind Logo -->
+  <g transform="translate(160, 80)">
+    <!-- Tailwind Wave -->
+    <path d="M20 40C20 25 30 20 40 20C55 20 60 30 70 30C75 30 80 25 80 20C80 35 70 40 60 40C45 40 40 30 30 30C25 30 20 35 20 40Z" fill="white"/>
+    <path d="M20 60C20 45 30 40 40 40C55 40 60 50 70 50C75 50 80 45 80 40C80 55 70 60 60 60C45 60 40 50 30 50C25 50 20 55 20 60Z" fill="rgba(255,255,255,0.7)"/>
+  </g>
+  
+  <!-- CSS Elements -->
+  <g opacity="0.8">
+    <!-- CSS Boxes -->
+    <rect x="60" y="40" width="20" height="20" fill="rgba(255,255,255,0.3)" rx="2"/>
+    <rect x="320" y="40" width="20" height="20" fill="rgba(255,255,255,0.3)" rx="2"/>
+    <rect x="60" y="180" width="20" height="20" fill="rgba(255,255,255,0.3)" rx="2"/>
+    <rect x="320" y="180" width="20" height="20" fill="rgba(255,255,255,0.3)" rx="2"/>
+    
+    <!-- Utility Classes -->
+    <text x="100" y="55" fill="rgba(255,255,255,0.6)" font-size="10" font-family="monospace">px-4</text>
+    <text x="280" y="55" fill="rgba(255,255,255,0.6)" font-size="10" font-family="monospace">py-2</text>
+    <text x="100" y="195" fill="rgba(255,255,255,0.6)" font-size="10" font-family="monospace">bg-blue</text>
+    <text x="270" y="195" fill="rgba(255,255,255,0.6)" font-size="10" font-family="monospace">rounded</text>
+  </g>
+  
+  <!-- Text -->
+  <text x="200" y="200" text-anchor="middle" fill="rgba(255,255,255,0.9)" font-size="16" font-weight="bold" font-family="Arial">Tailwind CSS Tips</text>
+  
+  <!-- Gradient Definition -->
+  <defs>
+    <linearGradient id="tailwindGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#06B6D4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0891B2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,18 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Docker Logo -->
+  <rect x="8" y="32" width="6" height="6" fill="#2496ED"/>
+  <rect x="16" y="32" width="6" height="6" fill="#2496ED"/>
+  <rect x="24" y="32" width="6" height="6" fill="#2496ED"/>
+  <rect x="32" y="32" width="6" height="6" fill="#2496ED"/>
+  <rect x="40" y="32" width="6" height="6" fill="#2496ED"/>
+  
+  <rect x="16" y="24" width="6" height="6" fill="#2496ED"/>
+  <rect x="24" y="24" width="6" height="6" fill="#2496ED"/>
+  <rect x="32" y="24" width="6" height="6" fill="#2496ED"/>
+  
+  <rect x="24" y="16" width="6" height="6" fill="#2496ED"/>
+  
+  <path d="M48 32C50 30 54 30 56 32C58 34 58 38 56 40C54 42 50 42 48 40V32Z" fill="#2496ED"/>
+  
+  <path d="M8 40H56C56 48 50 54 42 54H22C14 54 8 48 8 40Z" fill="#2496ED"/>
+</svg>

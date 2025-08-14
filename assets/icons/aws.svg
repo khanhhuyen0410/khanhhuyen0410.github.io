@@ -1,0 +1,10 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- AWS Logo -->
+  <path d="M20 24C20 20 16 16 12 16C8 16 4 20 4 24C4 28 8 32 12 32C16 32 20 28 20 24Z" fill="#FF9900"/>
+  <path d="M36 24C36 20 32 16 28 16C24 16 20 20 20 24C20 28 24 32 28 32C32 32 36 28 36 24Z" fill="#FF9900"/>
+  <path d="M52 24C52 20 48 16 44 16C40 16 36 20 36 24C36 28 40 32 44 32C48 32 52 28 52 24Z" fill="#FF9900"/>
+  
+  <path d="M8 40C8 36 12 32 16 32H48C52 32 56 36 56 40C56 44 52 48 48 48H16C12 48 8 44 8 40Z" fill="#232F3E"/>
+  
+  <text x="32" y="44" text-anchor="middle" fill="#FFFFFF" font-family="Arial" font-size="8" font-weight="bold">AWS</text>
+</svg>

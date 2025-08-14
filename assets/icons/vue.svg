@@ -1,0 +1,6 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Vue.js Logo -->
+  <path d="M32 52L8 16H20L32 36L44 16H56L32 52Z" fill="#4FC08D"/>
+  <path d="M32 52L20 16H8L32 52L56 16H44L32 52Z" fill="#4FC08D"/>
+  <path d="M32 36L20 16H26L32 26L38 16H44L32 36Z" fill="#35495E"/>
+</svg>
